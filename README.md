@@ -1,7 +1,7 @@
 # Project: Exploring Weather Trends
  
 OVERVIEW:
-This was the first introductory project in Udacity’s Data Analyst Nano Degree (DAND) program: Term 1.<br>
+This was the first introductory project in Udacity’s Data Analyst Nano Degree (DAND) program:<br>
 
 In this project, we had to analyze local and global temperature data. We had to then compare the temperature trends where we lived to overall global temperature trends. A visualization and write up describing the similarities and differences were to accompany the code. Detailed instructions were provided along with the workspace to code. We had to include a PDF with an outline of steps taken to prepare and visualize the data, code and our observations of the trends.<br>
 
